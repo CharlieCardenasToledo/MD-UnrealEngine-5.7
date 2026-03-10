@@ -256,7 +256,7 @@ def build_mkdocs_nav(
     version_comment = f"  # Unreal Engine {app_version}" if app_version else ""
 
     header = f"""site_name: '{site_name}'{version_comment}
-docs_dir: .
+docs_dir: '{docs_dir.name}'
 theme:
   name: material
   palette:
