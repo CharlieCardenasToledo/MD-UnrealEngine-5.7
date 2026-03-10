@@ -1,0 +1,32 @@
+# Set Physics Control Custom Control Point
+
+> Source: https://dev.epicgames.com/documentation/en-us/unreal-engine/node-reference/ControlRig/SetPhysicsControlCustomControlPoint
+
+> Application Version: 5.7
+
+### Description
+
+Sets the custom control point on a control
+
+### Information
+
+|  |  |
+| --- | --- |
+| Plugin | [ControlRigPhysics](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/PluginIndex/ControlRigPhysics) |
+| Category | RigPhysics |
+| Tags | Physics |
+| Type | [FRigUnit\_HierarchySetControlCustomControlPoint](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/ControlRigPhysics/FRigUnit_HierarchySetControlCust-) |
+
+### IO
+
+| Name | Description | Permitted Types | Default Value |
+| --- | --- | --- | --- |
+| ExecutePin | This property is used to chain multiple mutable units together | [Execute Context](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/RigVM/FRigVMExecuteContext) |  |
+
+### Inputs
+
+| Name | Description | Permitted Types | Default Value |
+| --- | --- | --- | --- |
+| PhysicsControlComponentKey | The Physics Control component to be updated | [Rig Component Key](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/ControlRig/FRigComponentKey) | (ElementKey=(Type=Bone,Name=""),Name="PhysicsControl") |
+| CustomControlPoint | The position of the control point relative to the child mesh, when using a custom control point. | [Vector](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Core) | (X=0.000000,Y=0.000000,Z=0.000000) |
+| bUseCustomControlPoint | Whether or not to use the custom control point position | [bool](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Core) | True |

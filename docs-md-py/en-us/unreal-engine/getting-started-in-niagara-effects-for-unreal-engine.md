@@ -1,0 +1,35 @@
+# Getting Started in Niagara
+
+> Source: https://dev.epicgames.com/documentation/en-us/unreal-engine/getting-started-in-niagara-effects-for-unreal-engine
+
+> Application Version: 5.7
+
+To get started in Niagara, the following materials are available to you.
+
+## Niagara Overview Pages
+
+These page goes over the basics of Niagara. They describes the basic building blocks of Niagara systems, emitters, and modules. They also provide some information on how to create Niagara systems and emitters. Read them to learn all about the design philosophy.
+
+- [Related Document](en-us/unreal-engine/overview-of-niagara-effects-for-unreal-engine.md)
+
+- [Related Document](en-us/unreal-engine/key-concepts-in-niagara-effects-for-unreal-engine.md)
+
+- [Related Document](en-us/unreal-engine/events-and-event-handlers-in-niagara-effects-for-unreal-engine.md)
+
+## Niagara Quick-Start Tutorials
+
+These Quick Start guides are step-by-step tutorials that take you through creating your first Niagara projects. Learn how to create an effect and attach it to an animation. Learn how to bake a Niagara system into a flipbook.
+
+- [Related Document](en-us/unreal-engine/quick-start-for-niagara-effects-in-unreal-engine.md)
+
+- [Related Document](en-us/unreal-engine/niagara-flipbook-baker-quick-start-guide-in-unreal-engine.md)
+
+- [Related Document](en-us/unreal-engine/summary-quick-start-guide.md)
+
+## Additional Information to Get You Started
+
+These pages are targeted for users with different types of projects. Check the Cascade to Niagara Converter Plugin page if you are migrating from Cascade. Read through the Large World Coordinates page if you are planning to create a large project.
+
+- [Related Document](en-us/unreal-engine/cascade-to-niagara-effects-converter-plugin-for-unreal-engine.md)
+
+- [Related Document](en-us/unreal-engine/large-world-coordinates-in-niagara-for-unreal-engine.md)

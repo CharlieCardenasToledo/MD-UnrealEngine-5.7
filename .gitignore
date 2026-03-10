@@ -1,0 +1,16 @@
+# Entornos virtuales y python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Herramientas locales dev
+.tools/
+
+# Archivos temporales o de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+# General Patching Information
+
+> Source: https://dev.epicgames.com/documentation/en-us/unreal-engine/general-patching-information-in-unreal-engine
+
+> Application Version: 5.7
+
+The following pages contain general information about the **Unreal Engine** cooking and chunking process, how to prepare .pak files for distribution, and reference information for mounting chunks.
