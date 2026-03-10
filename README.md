@@ -85,4 +85,6 @@ El proyecto incluye un scraper inteligente a prueba de interrupciones (`scrape_e
 
 ---
 
-_Nota: Todo el contenido descargado es propiedad de Epic Games. Esta herramienta es exclusivamente un lector offline de documentación pública para uso personal o interno de estudio._
+## ⚠️ Descargo de Responsabilidad / Copyright Notice
+
+_La documentación generada, su contenido, texto, estructura, hipervínculos y todos los derivados producidos por el uso de los scripts en este repositorio son propiedad intelectual de Epic Games, Inc. y están sujetos a los términos de uso y derechos de autor establecidos por Epic Games para la Unreal Engine Documentation. Este proyecto open source (creado con fines educativos y de optimización de flujos de trabajo) proporciona las herramientas tecnológicas para su extracción, procesamiento y formateo técnico en local, pero no distribuye contenido comercial ni reclama la autoría de la documentación original._
